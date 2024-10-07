@@ -1,0 +1,21 @@
+Filesystem      Inodes IUsed   IFree IUse% Mounted on
+dev            2032911   637 2032274    1% /dev
+run            2038149  1006 2037143    1% /run
+efivarfs             0     0       0     - /sys/firmware/efi/efivars
+/dev/sda2            0     0       0     - /
+tmpfs          2038149   146 2038003    1% /dev/shm
+tmpfs             1024     1    1023    1% /run/credentials/systemd-journald.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-udev-load-credentials.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-sysctl.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-sysusers.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-tmpfiles-setup-dev.service
+tmpfs             1024     1    1023    1% /run/credentials/systemd-vconsole-setup.service
+/dev/sda2            0     0       0     - /.snapshots
+tmpfs          1048576    41 1048535    1% /tmp
+/dev/sda2            0     0       0     - /home
+/dev/sda2            0     0       0     - /var/log
+/dev/sda2            0     0       0     - /var/cache/pacman/pkg
+/dev/sda1            0     0       0     - /boot
+tmpfs             1024     1    1023    1% /run/credentials/systemd-tmpfiles-setup.service
+tmpfs           407629    99  407530    1% /run/user/1000
